@@ -1,6 +1,6 @@
 {
   "name": "@yelsyei-ruban/npm-lib-link",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "library helps get is the link written properly",
   "main": "index.js",
   "scripts": {
