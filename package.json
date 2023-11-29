@@ -1,0 +1,16 @@
+{
+  "name": "@yelsyei-ruban/npm-lib-link",
+  "version": "1.0.1",
+  "description": "library helps get is the link written properly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: brak testów\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "library",
+    "example"
+  ],
+  "author": "Yelysei Ruban",
+  "license": "MIT"
+}
